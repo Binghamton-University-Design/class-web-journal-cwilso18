@@ -20,12 +20,6 @@ body {
   height: 100vh;
 }
 
-.nice-image {
-      max-width: 100%;
-      height: auto;
-      display: block;
-}
-
 #footer {
     width: 100%;
     overflow: hidden;
