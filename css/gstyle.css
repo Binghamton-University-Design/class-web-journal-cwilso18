@@ -26,12 +26,6 @@ body {
   height: 100vh;
 }
 
-.big {
-  font-family: Berlin, sans-serif
-  color: #ffffff;
-  font-weight: 700;
-}
-
 #footer {
     width: 100%;
     overflow: hidden;
