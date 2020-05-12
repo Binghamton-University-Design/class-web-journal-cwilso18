@@ -18,6 +18,16 @@ body {
   height: 100vh;
 }
 
+#footer {
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
+    font-family: Helvetica, sans-serif;
+    height: 100%;
+    position: absolute;
+}
+
 .left-button {
   position: absolute;
   padding: 20px;
