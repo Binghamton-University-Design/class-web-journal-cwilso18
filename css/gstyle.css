@@ -20,7 +20,10 @@ body {
   height: 100vh;
 }
 
-.grid div {
+.nice-image {
+      max-width: 100%;
+      height: auto;
+      display: block;
 }
 
 #footer {
