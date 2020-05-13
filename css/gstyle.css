@@ -22,14 +22,17 @@ body {
   display: block;
   }
 
-#text {
+.text {
+  position: absolute;
+  top: 8px;
+  left: 16px;
   margin: 10px;
   width: 100%;
   text-align: left;
   color: black;
   font-size: 28px;
   font-weight: 400;
-  font-family: Fira+Sans, sans-serif;
+  font-family: Fira, sans-serif;
 }
 
 .cbutton {
@@ -52,12 +55,12 @@ body {
   position: fixed;
   align-items: center;
   bottom: 516px;
-  right: 343px;
+  right: 1029px;
   text-align: center;
   color: white;
   font-size: 28px;
   font-weight: 400;
-  font-family: Josefin+Sans, sans-serif;
+  font-family: Josefin, sans-serif;
 }
 
 .rbutton {
@@ -68,7 +71,7 @@ body {
   position: fixed;
   align-items: center;
   bottom: 516px;
-  right: 1029px;
+  right: 343px;
   text-align: center;
   color: white;
   font-size: 28px;
