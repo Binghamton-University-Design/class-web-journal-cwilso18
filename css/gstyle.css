@@ -43,10 +43,11 @@ body {
   position: fixed;
   align-items: center;
   bottom: 516px;
-  right: 800px;
+  right: 1000px;
 }  
 
 .lbutton {
+  background-image: url("button.png");
   background-color: #cccccc;
   display: block;
   height: 95px;
@@ -63,7 +64,8 @@ body {
 }
 
 .rbutton {
-  background-color: #cccccc;
+  background-image: url("button.png");
+ background-color: #cccccc;
   display: block;
   height: 95px;
   width: 205px;
