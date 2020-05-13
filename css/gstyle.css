@@ -47,14 +47,15 @@ body {
 }  
 
 .lbutton {
-  background-image: "images/button.png";
+  background-image: url("button.png");
+  background-color: #cccccc;
   display: block;
   height: 95px;
   width: 205px;
   position: fixed;
   align-items: center;
   bottom: 516px;
-  right: 1150px;
+  left: 800px;
   text-align: center;
   color: white;
   font-size: 28px;
@@ -63,14 +64,15 @@ body {
 }
 
 .rbutton {
-  background-image: "images/button.png";
+  background-image: url("button.png");
+ background-color: #cccccc;
   display: block;
   height: 95px;
   width: 205px;
   position: fixed;
   align-items: center;
   bottom: 516px;
-  right: 500px;
+  right: 800px;
   text-align: center;
   color: white;
   font-size: 28px;
