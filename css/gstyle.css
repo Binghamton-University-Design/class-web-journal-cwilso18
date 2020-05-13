@@ -32,7 +32,7 @@ body {
   color: black;
   font-size: 28px;
   font-weight: 400;
-  font-family: Fira, sans-serif;
+  font-family: "Fira Sans";
 }
 
 .cbutton {
@@ -60,7 +60,7 @@ body {
   color: white;
   font-size: 28px;
   font-weight: 400;
-  font-family: Josefin, sans-serif;
+  font-family: "Josefin Sans";
 }
 
 .rbutton {
@@ -76,7 +76,7 @@ body {
   color: white;
   font-size: 28px;
   font-weight: 400;
-  font-family: Josefin+Sans, sans-serif;
+  font-family: "Josefin Sans";
 }
 
 #footer {
