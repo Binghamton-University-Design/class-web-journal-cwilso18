@@ -2,7 +2,8 @@ body {
     background-color: antiquewhite;
     text-align: center;
     margin: 0;
-    color: black;
+    color: black
+    height: auto;
 }
 
 .wrapper {
@@ -21,6 +22,16 @@ body {
   display: block;
   }
 
+#text {
+  margin: 10px;
+  width: 100%;
+  text-align: left;
+  color: black;
+  font-size: 28px;
+  font-weight: 400;
+  font-family: Fira+Sans, sans-serif;
+}
+
 .cbutton {
   background-color: #ffffff;
   opacity: 0;
@@ -33,11 +44,42 @@ body {
   right: 686px;
 }  
 
+.lbutton {
+  background-image: url("button.jpg");
+  display: block;
+  height: 95px;
+  width: 205px;
+  position: fixed;
+  align-items: center;
+  bottom: 516px;
+  right: 343px;
+  text-align: center;
+  color: white;
+  font-size: 28px;
+  font-weight: 400;
+  font-family: Josefin+Sans, sans-serif;
+}
+
+.rbutton {
+  background-image: url("button.jpg");
+  display: block;
+  height: 95px;
+  width: 205px;
+  position: fixed;
+  align-items: center;
+  bottom: 516px;
+  right: 1029px;
+  text-align: center;
+  color: white;
+  font-size: 28px;
+  font-weight: 400;
+  font-family: Josefin+Sans, sans-serif;
+}
+
 #footer {
     width: 100%;
     overflow: hidden;
     text-align: center;
-    font-size: .75em;
     color: black;
     font-size: 16px;
     font-weight: 400;
