@@ -22,7 +22,6 @@ body {
   }
 
 .cbutton {
-  display: block;
   height: 95px;
   width: 205px;
   position: fixed;
