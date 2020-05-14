@@ -47,7 +47,6 @@ body {
 }  
 
 .lbutton {
-  background-image: url("button.png");
   display: block;
   height: 150px;
   width: 315px;
@@ -63,7 +62,6 @@ body {
 }
 
 .rbutton {
-  background-image: url("button.png");
   display: block;
   height: 150px;
   width: 315px;
