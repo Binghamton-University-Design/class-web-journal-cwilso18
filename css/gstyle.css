@@ -34,6 +34,16 @@ body {
   font-family: "Fira Sans";
 }
 
+.btext {
+  position: absolute;
+  width: 98%;
+  text-align: center;
+  color: white;
+  font-size: 28px;
+  font-weight: 400;
+  font-family: "Josefin Sans";
+}
+
 .cbutton {
   background-color: #ffffff;
   opacity: 0;
@@ -54,11 +64,6 @@ body {
   align-items: center;
   bottom: 516px;
   left: 800px;
-  text-align: center;
-  color: white;
-  font-size: 28px;
-  font-weight: 400;
-  font-family: "Josefin Sans";
 }
 
 .rbutton {
@@ -69,11 +74,6 @@ body {
   align-items: center;
   bottom: 516px;
   right: 800px;
-  text-align: center;
-  color: white;
-  font-size: 28px;
-  font-weight: 400;
-  font-family: "Josefin Sans";
 }
 
 #footer {
