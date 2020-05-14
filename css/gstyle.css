@@ -72,8 +72,8 @@ body {
 .lbutton {
   border-radius: 25px;
   position: absolute;
-  height: 150px;
-  width:315px;
+  height: 75px;
+  width:200px;
   left: 20%;
   bottom: 5em;
   padding: 1em;
@@ -85,8 +85,8 @@ body {
 .rbutton {
   border-radius: 25px;
   position: absolute;
-  height: 150px;
-  width:315px;
+  height: 75px;
+  width:200px;
   right: 20%;
   bottom: 5em;
   padding: 1em;
