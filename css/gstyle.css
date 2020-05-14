@@ -48,13 +48,12 @@ body {
 
 .lbutton {
   background-image: url("button.png");
-  background-color: #cccccc;
   display: block;
-  height: 95px;
-  width: 205px;
+  height: 150px;
+  width: 315px;
   position: fixed;
   align-items: center;
-  bottom: 580px;
+  bottom: 516px;
   left: 800px;
   text-align: center;
   color: white;
@@ -65,13 +64,12 @@ body {
 
 .rbutton {
   background-image: url("button.png");
- background-color: #cccccc;
   display: block;
-  height: 95px;
-  width: 205px;
+  height: 150px;
+  width: 315px;
   position: fixed;
   align-items: center;
-  bottom: 580px;
+  bottom: 516px;
   right: 800px;
   text-align: center;
   color: white;
